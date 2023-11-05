@@ -33,8 +33,7 @@ def analyze_token_sentiment(docx):
 
 
 def main():
-	st.title("Sentiment Analysis NLP App")
-	st.subheader("Streamlit Projects")
+	st.title("Sentiment Analysis Using VADER & Text Blob")
 
 	menu = ["Home","About"]
 	choice = st.sidebar.selectbox("Menu",menu)
