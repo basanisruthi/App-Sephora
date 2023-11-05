@@ -1,6 +1,6 @@
 gensim
 streamlit
-scikit-learn==0.23.1
+scikit-learn==23.3.1
 pandas
 altair==5.0.1
 textblob==0.17.1
