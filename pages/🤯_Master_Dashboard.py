@@ -11,7 +11,8 @@ from sklearn.naive_bayes import MultinomialNB
 
 #### topic labeling ##########
 
-product_keywords = ['cream', 'foundation', 'lipstick', 'perfume', 'makeup', 'acne', 'irritated skin', 'worst product', 'bad product', 'poor quality', 'harsh', ' harsh chemicals', 'toxic chemicals', 'greasey', 'hand cream', 'oily', 'break out', 'cured acne', 'smooth', 'soft','recommend','moisterized', 'must have']
+product_keywords = ['cream', 'foundation', 'lipstick', 'perfume', 'makeup', 'acne', 'irritated skin', 'worst product', 'bad product', 'poor quality', 'harsh', ' harsh chemicals', 'toxic chemicals', 'greasey', 'hand cream', 'oily', 'break out', 'cured acne', 
+                    'smooth', 'soft','recommend','moisterized', 'must have','sunscreen','lotion','dissapointed','redness','allergic','bronzer','lipbalm','lips']
 
 marketing_keywords = ['good deal', 'gift set', 'promotions', 'festive offer', 'end of season sale', 'bundle offer', 'dicounts', 'cupon code','hype','marketing gimmick','expectations','not worth','christmas gift','gift']
 
